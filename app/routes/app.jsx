@@ -27,6 +27,7 @@ export default function App() {
         <Link to="/app/product">Product page</Link>
         <Link to="/app/collection">Collection page</Link>
         <Link to="/app/additional">repo page</Link>
+        <Link to="/app/additional">dev page</Link>
       </NavMenu>
       <Outlet />
     </AppProvider>
