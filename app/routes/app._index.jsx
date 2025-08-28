@@ -58,7 +58,7 @@ export const action = async ({ request }) => {
 };
 
 export default function Index() {
-  console.log('locations 1234568888')
+  console.log('locations')
   const [selected, setSelected] = useState('Locations');
 
   const handleSelectChange = useCallback(
