@@ -28,7 +28,6 @@ export default function App() {
         <Link to="/app/collection">Collection page</Link>
         <Link to="/app/additional">repo page</Link>
         <Link to="/app/additional">dev page</Link>
-        <Link to="/app/additional">about page</Link>
       </NavMenu>
       <Outlet />
     </AppProvider>
